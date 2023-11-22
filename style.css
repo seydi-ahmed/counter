@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f5f5f5; /* couleur de fond */
+    font-family: 'Arial', sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+#value {
+    display: block;
+    font-size: 3em;
+    margin: 20px 0;
+    color: #4CAF50; /* couleur du texte du compteur */
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    background-color: #4CAF50; /* couleur de fond des boutons */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #45a049; /* couleur de fond des boutons au survol */
+}
