@@ -11,7 +11,7 @@ Counter is a basic JavaScript project that provides a simple user interface with
 - Clicking "Reset" resets the counter to 0.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/counter.git`
+1. Clone the repository: `git clone https://github.com/seydi-ahmed/counter.git`
 2. Open `index.html` in a web browser.
 
 ## Usage
